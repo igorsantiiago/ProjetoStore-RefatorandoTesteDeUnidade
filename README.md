@@ -1,5 +1,5 @@
-## 🏪 **Projeto Store**
----
+<h1>🏪 <strong>Projeto Store</strong></h1>
+
 ## 💡 Objetivo
 - Esse projeto foi desenvolvido durante o curso: Refatorando para Testes de Unidade, da plataforma [Balta.io](https//balta.io), tendo como objetivo a demostração do funcionamento de testes de unidade e também colocar em prática a criação de um Domínio.
 
